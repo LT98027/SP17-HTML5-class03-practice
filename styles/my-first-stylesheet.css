@@ -1,5 +1,5 @@
-/* 16px == 1rem */
-html { font-size: 16px; }
+ 16px == 1rem */
+ html { font-size: 16px; }
 
 img {
   width: 25%
@@ -43,3 +43,21 @@ img {
 .highlight {
   background-color: salmon;
 }
+  .document-history {
+    height: 2rem;
+    background-color: blue;
+  }
+  .document-history p {
+    font-family: helvetica;
+  }
+  article {
+    width: 100%;
+    padding: 2rem;
+    background-color: gray;
+    font-color: white;
+    text-align: center;
+  }
+  aside {
+    width: 50%;
+    text-align: center;
+  }
